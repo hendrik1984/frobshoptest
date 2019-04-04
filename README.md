@@ -1,0 +1,2 @@
+# frobshoptest
+Django + Django-oscar
